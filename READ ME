@@ -1,0 +1,15 @@
+For Question 1:
+
+Create the SortedPriorityQueue() object
+Use the .add method to insert a key-value pair into the PQ
+The .add method uses insertion sort to maintain the sorted PQ
+The for loop prints out the order of the PQ
+
+For Question 2:
+
+Important:
+Input must be a COMPLETE BINARY TREE
+
+For example: You must input [1, null, 2, null, null, 3, null] in order to get an accurate traversal
+
+"Done" is used as the breakaway from the while loop
